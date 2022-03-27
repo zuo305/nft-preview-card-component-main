@@ -70,7 +70,7 @@ body{
     cursor: pointer;
 }
 
-article .cover_icon {
+.cover_icon {
     position: absolute;
     left:0px;
     top:0px;
